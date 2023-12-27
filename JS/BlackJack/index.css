@@ -1,0 +1,47 @@
+body{
+    background-color: green;
+    text-align: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: orange;
+}
+h2{
+    color:white;
+}
+h3{
+    color:white;
+}
+
+#startGame
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: orange;
+    color:white;
+    border-radius: 2px;
+    border:none;
+}
+
+#newcard
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    background-color: orange;
+    color:white;
+    border-radius: 2px;
+    border:none;
+}
+
+#Player-el
+{
+    color:white;
+}

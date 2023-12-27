@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+Button{
+    padding: 30px 80px;
+    border: 1px solid white;
+    margin: 20px;
+    background-color: lightseagreen;
+    color: white;
+    font-weight: bold;
+}
+p{
+    color:lightcoral;
+    font-weight: bold;
+}

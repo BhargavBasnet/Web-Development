@@ -1,0 +1,38 @@
+body{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://images.pexels.com/photos/1486974/pexels-photo-1486974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    text-align: center;
+}
+
+button{
+    border:none;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin:10px;
+}
+
+#increment-btn{
+    background:darkred;
+}
+
+#save-btn{
+     background:darkgreen;
+}
+
+.container{
+    background:white;
+    max-width: 50%;
+    border: 3px solid black;
+}
+
+#save-el{
+    padding-bottom: 20px;
+}

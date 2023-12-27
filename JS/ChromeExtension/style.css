@@ -1,0 +1,36 @@
+body{
+    margin:0px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 300px; /*Brower le yo width vanda sano chai huna didina minimize garda pani good feature*/
+}
+
+#input-el
+{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 10px;
+
+
+
+}
+
+#input-btn
+{
+    background: #5f9341;
+    color:white;
+    padding: 10px 20px; /* first ko vertical second ko horizontal*/
+}
+ul{
+    list-style: none; /*bullet hatayo*/
+    padding-left :0;
+    margin-top: 20px;
+}
+li{
+    margin-top: 5px;
+}
+li a{ /*yesle chai list vitra ko anchor tag lai matra select gar hai vanxa*/
+ color: #5f945f;
+}

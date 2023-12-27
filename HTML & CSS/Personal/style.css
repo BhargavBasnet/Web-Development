@@ -1,0 +1,18 @@
+body{ /*Body is the selector, 
+        color is the peoperty
+        Red is the value*/
+    background-color:red;
+    color:blue;
+    font-size: 25px;
+    margin-top:50px;
+}
+
+button{
+    color:sandybrown;
+    border: 1px solid;
+    background: white;
+    padding:8px;
+    border-radius: 18px;
+    font-weight: bold;
+
+}

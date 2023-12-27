@@ -1,0 +1,33 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+image{
+    width: 150px;
+}
+
+.firstDiv{
+    /*border:1px dotted blue;*/
+    
+    padding: 20px;
+    display: flex;
+    /*justify-content: center;
+    align-items: center;*/
+    width: 700px;
+    justify-content: space-around;
+    /* margin-left: auto;
+    /* margin-right: auto;  instead of these two lines */ margin: 0 auto;
+    background-color: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    
+    /*margin:40px,auto : 40px vaneko chai vertical and auto vaneko chai horizontal*/
+/* Instead of margin-left,top,bottom we can write margin:40px 0px 0px 40px which is top-right-bottom-left*/
+    
+}
+
+/* .border{
+    border:1px dotted blue;
+    margin-left: 40px; 
+*/
+
